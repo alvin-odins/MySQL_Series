@@ -1,0 +1,43 @@
+﻿inv_id ,item_id ,quantity ,
+1,ING001,300,Pizza Base
+2,ING002,25,Tomato Sauce
+3,ING003,40,Mozzarella
+4,ING004,10,Oregano
+5,ING005,25,Spicy Salami
+6,ING006,20,Chilli Pepper
+7,ING007,15,Eggplants
+8,ING008,15,Parmesan Cheese
+9,ING009,15,Gorgonzola
+10,ING010,15,Ricotta
+11,ING011,20,Anchovies
+12,ING012,15,Capers
+13,ING013,20,Pepperoni
+14,ING014,10,Shrimps
+15,ING015,10,Tuna
+16,ING016,10,Calamari
+17,ING017,15,Ham
+18,ING018,20,Pineapple
+19,ING019,15,Clabatta
+20,ING020,80,Bread
+21,ING021,10,Garlic butter
+22,ING022,10,Parsley
+23,ING023,100,Chicken
+24,ING024,5,Croutons
+25,ING025,10,Lettuce
+26,ING026,10,Caesar Dressing
+27,ING027,350,Milk
+28,ING028,15,Vanilla
+29,ING029,15,Chocolate
+30,ING030,30,Strawberry
+31,ING031,10,Pistachio
+32,ING032,30,Bananas
+33,ING033,10,Cream
+34,ING034,10,Caramel Sauce
+35,ING035,60,Biscuit Base
+36,ING036,30,Papaya
+37,ING037,15,San Pelegrino
+38,ING038,15,Perrier
+39,ING039,25,Coca Cola Regular
+40,ING040,25,Coca Cola Diet
+41,ING041,25,7 Up Regular
+42,ING042,25,Fanta Regular
